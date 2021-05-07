@@ -4,4 +4,3 @@ x=12
 
 print(x)
 
-#almondega 
