@@ -4,5 +4,5 @@ x=12
 
 print(x)
 
-print('almondega')
+print('x')
 

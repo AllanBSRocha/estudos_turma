@@ -7,3 +7,8 @@ CREATE TABLE dbo.emp
 GO
 
 CREATE CLUSTERED INDEX IX_emp_ID ON dbo.emp (ID);
+
+
+Select top 10 * from tabela 
+
+select * from tabela limit 10 
